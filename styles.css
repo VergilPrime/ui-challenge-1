@@ -14,6 +14,10 @@ header>div {
 }
 
 /*nav bar*/
+body>ul {
+  float: left;
+}
+
 body>ul>li {
   float: left;
   width: 120px;
